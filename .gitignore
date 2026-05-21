@@ -1,0 +1,25 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Project Specific Large Folders / Caches
+.hf_cache/
+dataset/data/
+
+# Model Artifacts (uncomment if you don't want to push the FAISS index and embeddings to git)
+# artifacts/embeddings.npy
+# artifacts/recipe_index.faiss
+
+# OS specific
+.DS_Store
+Thumbs.db
