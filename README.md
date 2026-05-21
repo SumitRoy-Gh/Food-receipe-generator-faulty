@@ -17,7 +17,11 @@ While the system is fully functional and successfully fetches recipes, **it stru
 
 **Got an idea? I need your help!**
 If you know of a better approach, a hidden dataset, or a robust way to solve this specific Indian food classification problem, please reach out to me! 
+<<<<<<< HEAD
 👉 **[Connect with me on LinkedIn to discuss solutions](https://www.linkedin.com/in/sumit-roy-482378314/)**
+=======
+👉 **[Connect with me on LinkedIn to discuss solutions]([https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/in/sumit-roy-482378314/))**
+>>>>>>> 35b5e2970caf6fed88782b58fc3a109da7d11c04
 
 ---
 
